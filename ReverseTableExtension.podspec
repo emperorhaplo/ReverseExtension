@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/emperorhaplo/ReverseExtension.git', :tag => s.version.to_s }
   s.social_media_url = ''
 
-  s.ios.deployment_target = '11.0'
+  s.ios.deployment_target = '10.0'
 
   s.source_files = 'ReverseExtension/*.{swift,h,m}'
 
