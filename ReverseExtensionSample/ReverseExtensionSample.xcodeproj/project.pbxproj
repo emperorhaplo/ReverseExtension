@@ -132,6 +132,7 @@
 				TargetAttributes = {
 					9D17DB4F1E669E2200282636 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = R48H2ANF75;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
@@ -142,6 +143,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -355,8 +357,9 @@
 			baseConfigurationReference = 0523D6D2854A4E03BBDB5558 /* Pods-ReverseExtensionSample.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = R48H2ANF75;
 				INFOPLIST_FILE = ReverseExtensionSample/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.marty-suzuki.ReverseExtensionSample";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -370,8 +373,9 @@
 			baseConfigurationReference = 7D61D33DE02BFB0E263CF360 /* Pods-ReverseExtensionSample.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = R48H2ANF75;
 				INFOPLIST_FILE = ReverseExtensionSample/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.marty-suzuki.ReverseExtensionSample";
 				PRODUCT_NAME = "$(TARGET_NAME)";
